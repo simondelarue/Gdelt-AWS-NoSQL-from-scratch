@@ -87,7 +87,7 @@ Le DataWarehouse consitute le lieux de stockage des données pré-traitées prop
 
 Les configurations retenues pour l'instanciation de notre ring Cassandra sont les suivantes :
 
-*Note* : Pour configurer cette architecture chez vous, suivez ce [Tutoriel Cassandra](https://github.com/simondelarue/Gdelt-AWS-NoSQL-from-scratch/tree/main/cassandra)
+*Note* : Pour configurer cette architecture chez vous, suivez ce [Tutoriel Cassandra](https://github.com/simondelarue/Gdelt-AWS-NoSQL-from-scratch/tree/master/cassandra)
 
 **Configurations**
 * **EC2 instances** : M4Large 
