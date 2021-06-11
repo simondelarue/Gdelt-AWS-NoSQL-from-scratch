@@ -8,7 +8,7 @@
 
 ## Evolution de la pandémie COVID19 via son impact média
 
-_Contributeurs : Vincent, Bardonnet, Alexandre Bréboin, Simon Delarue, Mathias Nourry, Valentin Pannier_
+_Contributeurs : Alexandre Bréboin, Simon Delarue, Mathias Nourry, Valentin Pannier_
 
 > _" The Global Database of Events, Language, and Tone (GDELT) monitors the world’s broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society every second of every day, creating a free open platform for computing on the entire world_
 
